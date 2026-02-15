@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Papi",
+  "base_artist": "f(x)",
+  "createdAt": "2026-02-15T18:14:19.844512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Papi",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Papi_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Papi",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Papi_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Papi Lover",
+      "artist": "Daddy Yankee feat. Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/03_Papi_Lover_Daddy_Yankee_feat._Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Papi Lover (Feat. Daddy Yankee)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/04_Papi_Lover_(Feat._Daddy_Yankee)_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "papi bones (feat. shygirl)",
+      "artist": "FKA twigs feat. Shygirl",
+      "has_synced": true,
+      "path": "select/05_papi_bones_(feat._shygirl)_FKA_twigs_feat._Shygirl.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "papi bones (feat. shygirl)",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/06_papi_bones_(feat._shygirl)_FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Papi Pacify - Strange Weather EP",
+      "artist": "Anna Calvi",
+      "has_synced": true,
+      "path": "select/07_Papi_Pacify_-_Strange_Weather_EP_Anna_Calvi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Papi Pacify (Strange Weather EP)",
+      "artist": "Anna Calvi",
+      "has_synced": true,
+      "path": "select/08_Papi_Pacify_(Strange_Weather_EP)_Anna_Calvi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Papi",
+      "artist": "Dean Blunt",
+      "has_synced": true,
+      "path": "select/09_Papi_Dean_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Papi Pacify",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/10_Papi_Pacify_FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mmm Papi",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/11_Mmm_Papi_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "papi bones (feat. shygirl)",
+      "artist": "FKA twigs Shygirl",
+      "has_synced": true,
+      "path": "select/12_papi_bones_(feat._shygirl)_FKA_twigs_Shygirl.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Call Me Papi (feat. Dawty Music)",
+      "artist": "Feder feat. Ofenbach & Dawty Music",
+      "has_synced": true,
+      "path": "select/13_Call_Me_Papi_(feat._Dawty_Music)_Feder_feat._Ofenbach_&_Dawty_Music.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call Me Papi (feat. Dawty Music)",
+      "artist": "Feder/Ofenbach/Dawty Music",
+      "has_synced": true,
+      "path": "select/14_Call_Me_Papi_(feat._Dawty_Music)_Feder_Ofenbach_Dawty_Music.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Papi",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/15_Papi_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dale Papi",
+      "artist": "Lariss",
+      "has_synced": true,
+      "path": "select/16_Dale_Papi_Lariss.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Papi",
+      "artist": "Marko Glass feat. Arkanian",
+      "has_synced": false,
+      "path": "select/17_Papi_Marko_Glass_feat._Arkanian.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Papi (feat. Arkanian)",
+      "artist": "Marko Glass, Arkanian",
+      "has_synced": false,
+      "path": "select/18_Papi_(feat._Arkanian)_Marko_Glass,_Arkanian.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Papi",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/pl_01_Papi_f(x).txt"
+    }
+  ]
+}
